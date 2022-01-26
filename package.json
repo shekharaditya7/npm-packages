@@ -1,0 +1,19 @@
+{
+  "name": "utility_components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shekharaditya7/npm_package.git"
+  },
+  "author": "Aditya Shekhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shekharaditya7/npm_package/issues"
+  },
+  "homepage": "https://github.com/shekharaditya7/npm_package#readme"
+}
